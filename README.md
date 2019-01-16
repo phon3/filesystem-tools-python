@@ -26,12 +26,11 @@ Usage:
 ```
 
 Example:
-```
-    python dup_finder.py ~/github -s
-```
-```
-    python dup_finder.py /Users/Phon3/Downloads -m
-```
+
+File Size :`python dup_finder.py ~/github -s`
+
+MD5 Hashes: `python dup_finder.py /Users/Phon3/Downloads -m`
+
 
 
 ###count_bytes.py
