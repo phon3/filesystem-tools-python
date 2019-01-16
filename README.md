@@ -44,8 +44,9 @@ Usage:
 ```
 
 Example:
-    HTML files: ```python count_bytes.py html ~/www```
 
-    JPG files: ```python count_bytes.py jpg ~/Downloads```
+HTML files: `python count_bytes.py html ~/www`
 
-    PDF files: ```python count_bytes.py pdf /Users/Phon3/Ebooks```
+JPG files: `python count_bytes.py jpg ~/Downloads`
+
+PDF files: `python count_bytes.py pdf /Users/Phon3/Ebooks`
