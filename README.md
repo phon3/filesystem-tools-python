@@ -14,7 +14,7 @@ pip install fs
 
 
 
-###dup_finder.py
+### dup_finder.py
 
 Find paths to files with identical contents . Currently supports either MD5 or files sizes to check.
 
@@ -33,7 +33,7 @@ MD5 Hashes: `python dup_finder.py /Users/Phon3/Downloads -m`
 
 
 
-###count_bytes.py
+### count_bytes.py
 
 Display how much storage is used on a hdd of a specific file type.
 
